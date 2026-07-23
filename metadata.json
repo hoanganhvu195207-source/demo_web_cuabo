@@ -1,0 +1,6 @@
+{
+  "name": "PTDTBT HEALTH PRO",
+  "description": "Cổng Quản lý Y tế & Nội trú Học sinh Bán trú - Professional School Health & Boarding Management Portal, integrated with intelligent Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

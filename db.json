@@ -1,0 +1,85 @@
+{
+  "rotations": [
+    {
+      "id": "ROT-1784779917824",
+      "studentName": "Hoàng Anh Vũ",
+      "studentCode": "HS-11C-481",
+      "hospitalName": "1",
+      "department": "Sốt",
+      "startDate": "2026-07-23",
+      "endDate": "2026-08-22",
+      "mentorName": "Cô Nguyễn Thị Mai (GVCN)",
+      "status": "Active",
+      "clinicalHours": 20.5,
+      "logbooks": []
+    },
+    {
+      "id": "ROT-1784779915712",
+      "studentName": "Hoàng Anh Vũ",
+      "studentCode": "HS-11C-290",
+      "hospitalName": "1",
+      "department": "Sốt",
+      "startDate": "2026-07-23",
+      "endDate": "2026-08-22",
+      "mentorName": "Cô Nguyễn Thị Mai (GVCN)",
+      "status": "Active",
+      "clinicalHours": 20.5,
+      "logbooks": []
+    },
+    {
+      "id": "ROT-1784779890051",
+      "studentName": "Hoàng Anh Vũ",
+      "studentCode": "HS-10C-587",
+      "hospitalName": "1",
+      "department": "Sốt",
+      "startDate": "2026-07-23",
+      "endDate": "2026-08-22",
+      "mentorName": "Cô Nguyễn Thị Mai (GVCN)",
+      "status": "Active",
+      "clinicalHours": 20.5,
+      "logbooks": []
+    }
+  ],
+  "rooms": [],
+  "tickets": [],
+  "appraisals": [],
+  "soKhambenhData": [
+    {
+      "stt": 1,
+      "ngayKham": "23/7/2026",
+      "hoTen": "Hoàng Anh Vũ",
+      "gioiTinh": "Nam",
+      "lop": "1",
+      "diaChi": "Nà Đát",
+      "trieuChung": "Ho",
+      "chanDoan": "Sốt",
+      "thuoc1": "amo",
+      "sl1": 115,
+      "thuoc2": "1",
+      "sl2": 3
+    }
+  ],
+  "phatthuocData": [
+    {
+      "stt": 1,
+      "ngay": "23/7/2026",
+      "hoTen": "Hoàng Anh Vũ",
+      "lop": "1",
+      "chanDoan": "Sốt",
+      "thuoc1": "amo",
+      "sl1": 115,
+      "thuoc2": "1",
+      "sl2": 3
+    }
+  ],
+  "baocaotonData": [
+    {
+      "stt": 1,
+      "tenThuoc": "",
+      "donVi": "Viên",
+      "donGia": 0,
+      "tonCuoiKy": 0,
+      "nhapTrongThang": 0
+    }
+  ]
+}
